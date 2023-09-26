@@ -14,3 +14,5 @@ The python and shiny for r code were very similar so it was easy acquiring the v
 
 ### 3. MatPlotlib Python Flask App
 Visualization loaded using python and flask
+
+This process took me the longest but my only error was not creating a templates folder and not placing the html in the templates folder. Once i figured this out I was able to run the program through flask app. The coding was easy and I like how you can display this on a html so it is easier for non tech ppl to see. 
