@@ -10,5 +10,7 @@ It was difficult understanding the features of posit and R because I am so used 
 Visualization loaded using python and shiny package
 Contents and md file in folder
 
+The python and shiny for r code were very similar so it was easy acquiring the visual through python and shiny. Installing the shiny package was easy through google shell and I had no errors. Cloning to github was a familiar process done before. I prefer this way out of the three for loading the visualization. 
+
 ### 3. MatPlotlib Python Flask App
 Visualization loaded using python and flask
